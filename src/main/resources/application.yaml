@@ -1,0 +1,6 @@
+ktor:
+    application:
+        modules:
+            - com.gigachat.product.MainKt.main
+    deployment:
+        port: 8480
